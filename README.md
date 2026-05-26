@@ -43,7 +43,7 @@ The project utilizes a relational structure consisting of both transactional and
 ## Dashboard Output
 Here is a look at the final analytics dashboard:
 
-![Retail Analytics Dashboard](image_b308e1.png)
+https://github.com/priyapatel96140/retail-analysis-power-bi-project/blob/main/retail-analysis-webinar-dashboard.png
 
 *Quick stats from the view:*
 * Clean breakdown of performance metrics by **State**, **Category**, and **Manager**.
